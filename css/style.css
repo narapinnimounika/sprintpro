@@ -1,13 +1,11 @@
 
-#nav .container{
+#nav.container{
     text-decoration : none;
       height:900%;
       width: 1000%;
       padding-top: 3%;
       position: static;
   }
-  
-  
   body
         {
           margin-left:20px;
@@ -120,6 +118,14 @@
           display: flex;
           width: auto;
         }
+        
+#nav.container{
+  text-decoration : none;
+    height:900%;
+    width: 1000%;
+    padding-top: 3%;
+    position: static;
+}
       
       
         .column {
